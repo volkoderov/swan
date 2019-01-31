@@ -26,7 +26,7 @@ if($_POST['act']=='del'){
 }
 
 if($_POST['act']=='edit'){
-	rem_book();
+	edit_book();
 	exit();
 }
 //подключение вида

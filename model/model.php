@@ -46,7 +46,7 @@ function del_book(){
 
 // Функция редактирования книги
 
-function rem_book(){
+function edit_book(){
 	$id=clean($_POST['id']);
 	$author = clean($_POST['author']);
 	$name = clean($_POST['name']);
