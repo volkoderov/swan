@@ -1,5 +1,5 @@
 //Модально окно
-var modal = document.querySelector("#modal"),
+modal = document.querySelector("#modal"),
 closeButton = document.querySelector("#close-button"),
 openButton = document.querySelector("#open-button"),
 send = document.querySelector("#send"),
